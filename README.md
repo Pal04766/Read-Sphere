@@ -37,7 +37,3 @@ The datasets used are:
 - Python 3.6+
 - Necessary Python libraries (listed in `requirements.txt`)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anirudhxchaturvedi/Book-Recommendation-System-
